@@ -81,20 +81,29 @@ python stock_analysis.py
 
 ✅ **Model:**	Linear Regression
 
+![Performance](screenshots/Screenshot 2025-11-13 120124.png)
+
 ## 📈 Visualizations
 
 **1️⃣ Stock Price Trends (2015–2025)**
 
 Visualizes 10-year closing price movements for top Indian stocks.
+![Stock Price Trends](screenshots/Screenshot 2025-11-13 115836.png)
+
 
 **2️⃣ Correlation Heatmap**
 
 Displays how stock returns move relative to one another — helpful for portfolio diversification.
+![Heatmap](screenshots/Screenshot 2025-11-13 115943.png)
 
 **3️⃣ Actual vs Predicted Prices**
 
 Compares model predictions with real closing prices for accuracy evaluation.
+![Actual vs Predicted](screenshots/Screenshot 2025-11-13 115711.png)
+
 
 **4️⃣ Future Forecast (Next 5 Days)**
 
 Plots predicted prices for the next 5 trading days.
+![Forecast](screenshots/Screenshot 2025-11-13 115731.png)
+![Forecast](screenshots/Screenshot 2025-11-13 120203.png) 
